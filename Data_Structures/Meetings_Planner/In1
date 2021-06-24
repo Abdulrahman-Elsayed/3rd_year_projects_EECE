@@ -1,0 +1,18 @@
+ADD "Physics Lecture 1" 5 9
+ADD "M@th Section" 5 10
+ADD "Club_meeting" 5 10
+ADD "Club_meeting" 5 11
+ADD "Movies" 100 20
+MOD "Math Section" 5 10
+Print
+Find 5 10
+Find 7 13
+DEL 10 10
+Print
+DEL 100 20
+ADD "Lunch" 1000 4
+Print
+ADD "Lunch" 100 24
+ADD "Lunch" 10 4
+Fix 5 10
+Print
